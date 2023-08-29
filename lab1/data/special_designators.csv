@@ -1,0 +1,15 @@
+﻿ModelFullName,Designator
+Aircraft type not (yet) assigned a designator,ZZZZ
+Airship,SHIP
+Balloon,BALL
+Glider,GLID
+Microlight aircraft,ULAC
+Microlight autogyro,GYRO
+Microlight helicopter,UHEL
+Powered parachute/Paraplane,PARA
+Sailplane,GLID
+Ultralight aircraft,ULAC
+Ultralight autogyro,GYRO
+Ultralight helicopter,UHEL
+UA which is not capable of hover or vertical flight and needs to be in horizontal motion to sustain flight.,FFLO
+UA which is capable of vertical flight and hover,VFHC
